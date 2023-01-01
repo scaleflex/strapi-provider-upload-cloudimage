@@ -1,0 +1,1 @@
+npm i -S ./local_modules/provider-upload-cloudimage

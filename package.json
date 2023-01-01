@@ -1,0 +1,29 @@
+{
+  "name": "provider-upload-cloudimage",
+  "version": "1.0.0",
+  "description": "Strapi v4 upload provider for Cloudimage by Scaleflex",
+  "main": "./lib",
+  "maintainers": [
+    {
+      "name": "Ruslan Aliyev",
+      "email": "ruslan@scaleflex.com"
+    }
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scaleflex",
+  "license": "MIT",
+  "dependencies": {
+    "@strapi/provider-upload-local": "^4.3.8"
+  },
+  "keywords": [
+    "scaleflex",
+    "cloudimage",
+    "upload",
+    "strapi"
+  ]
+}
