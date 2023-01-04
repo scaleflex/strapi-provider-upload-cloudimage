@@ -1,6 +1,6 @@
 {
   "name": "provider-upload-cloudimage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strapi v4 upload provider for Cloudimage by Scaleflex",
   "main": "./lib",
   "maintainers": [
